@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar From India</h1>
-<h3 style="align-items: center;">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://media1.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=6c09b952m1kqi97r9oew4e938yt0egagyiqlz8eeewcvrvtz&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="100%">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
